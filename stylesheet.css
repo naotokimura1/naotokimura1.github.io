@@ -1,0 +1,136 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.ringo {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+table {
+  
+}
+
+.gorira {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.rappa a {
+  float: right;
+  padding: 33px 20px;
+  color: white;
+}
+
+.rappa a:hover {
+  color: rgb(0,0,0);
+}
+
+.rokku {
+  padding: 100px 80px;
+}
+
+.kusuri h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+.kusuri span {
+  color: #ff4a4a;
+}
+
+.rikuchi {
+  float: left;
+  top: 600px;
+  width: 500px;
+}
+
+.chizimi {
+  height: 1800px;
+  margin-top: 100px;
+}
+
+.minto {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.tosou {
+  
+}
+
+.tosou p {
+  text-align: center;
+  font-size: 20px;
+  width: 250px;
+}
+
+.ubaguruma {
+  padding-top: 100px;
+}
+
+.masume {
+  border-bottom: 2px solid #dee7ec;
+}
+
+input,textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.mekagojira {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  color: #889eab;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+
+}
+
+.mekagojira:hover {
+  color: rgb(0,0,0);
+}
+
+.mekagojira:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+.rakuda {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.dakuto {
+  float: left;
+  font-size: 32px;
+}
+
+.tontoro {
+  float: left;
+}
+
+.tontoro a {
+  color: white;
+  padding-right: 10px;
+  text-decoration: none;
+}
+
+.roppongi:hover {
+  color: rgb(0,0,0);
+}
